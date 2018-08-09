@@ -1,0 +1,2 @@
+# LearningSpinner
+A school project.
